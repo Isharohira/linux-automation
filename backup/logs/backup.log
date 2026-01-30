@@ -1,0 +1,24 @@
+sending incremental file list
+created directory /prod_backup/2026-01-30
+./
+file1.txt
+file2.txt
+
+sent 226 bytes  received 103 bytes  219.33 bytes/sec
+total size is 46  speedup is 0.14
+sending incremental file list
+created directory /prod_backup/2026-01-30
+./
+file1.txt
+file2.txt
+
+sent 226 bytes  received 103 bytes  219.33 bytes/sec
+total size is 46  speedup is 0.14
+sending incremental file list
+created directory /prod_backup/2026-01-30
+./
+file1.txt
+file2.txt
+
+sent 226 bytes  received 103 bytes  658.00 bytes/sec
+total size is 46  speedup is 0.14
